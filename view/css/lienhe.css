@@ -1,0 +1,23 @@
+#connent{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#connent .item{
+    width: 290px;
+    height: 374px;
+    background: #c1b2b2;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+#connent .item .inner{
+  text-align: center;
+  color: #1d1a1a;
+  font-weight: bold;
+  margin-top: 21px;
+}
+
